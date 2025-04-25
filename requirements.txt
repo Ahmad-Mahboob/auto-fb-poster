@@ -1,0 +1,6 @@
+feedparser
+requests
+beautifulsoup4
+python-dotenv
+openai         # if you ever test with OpenAI in dev
+llama-cpp-python  # or transformers, depending on your LLM choice
